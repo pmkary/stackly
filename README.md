@@ -1,6 +1,6 @@
 # Stackly
 ## What the hell is this?
-Okay okay stackly is like nothing you've seen EVER! Have it even happened to you that you're doing something and then a new activity pops up and you have to do that and when you finish it you start wondering what the hell I was doing before it? Okay as programmers we know that the best answer to this is a stack... and well stackly is exactly a stack that you use to say what you were doing!
+Okay okay it's easy to expalin: stackly is like nothing you've EVER seen (the marketing version...)! but the right one: Have it ever happened to you that you're doing something and then a new activity pops up and you have to do that and when you finish it you start wondering what the hell I was doing before it? Okay as programmers we know that the best answer to this is a stack... and well stackly is exactly a stack that you use to say what you were doing!
 
 ## How to install it?
 ```
