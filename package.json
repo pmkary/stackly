@@ -1,0 +1,23 @@
+{
+  "name": "stackly",
+  "version": "0.0.1",
+  "description": "A stack based 'what you were doing' tool!",
+  "main": "bin/index.jx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmkary/stackly.git"
+  },
+  "author": "Pouya Kary",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pmkary/stackly/issues"
+  },
+  "homepage": "https://github.com/pmkary/stackly#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "readline-sync": "^1.4.4"
+  }
+}
