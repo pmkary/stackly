@@ -1,6 +1,6 @@
 {
   "name": "stackly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A stack based 'what you were doing' tool!",
   "bin": {
     "stackly": "bin/index.js"
