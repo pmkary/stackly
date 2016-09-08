@@ -8,11 +8,11 @@ Okay okay it's easy to expalin: stackly is like nothing you've EVER seen (the ma
 ```
 
 ## And then how?
-Imagine you're doing activity A, you have to say that to stably buy pushing to it's stack:
+Imagine you're doing activity A, you have to say that to are doing A by pushing it to the stack:
 ```
 % stackly push
 ```
-Let's you add to the stack, Now activity B happens, You push the B to the stack and then you do the B, when the B is done you do:
+Now activity B happens, You push the B to the stack (like before another `stack push`) and then you do the B, when the B is done you do:
 ```
 % stackly pop
 ```
